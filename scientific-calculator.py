@@ -12,4 +12,4 @@ def square(x):
 def root(x):    
     return sqrt(x)
 def cosine(x):
-    math.cos()
+    math.cos(x)
